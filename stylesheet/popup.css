@@ -1,0 +1,32 @@
+
+  
+  /* The popup form - hidden by default */
+  .form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    width: 470px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom:425px;
+    
+ 
+  }
+  
+  /* Add styles to the form container */
+  .form-container {
+    max-width: 300px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+   
+  }
+  
+ 
+  
+  
+ 
+  .btn1{
+
+background-color: blue
+;
+
+  }
